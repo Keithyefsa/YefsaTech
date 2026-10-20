@@ -1,5 +1,3 @@
-# YefsaTech
-Global tech Company
 <!DOCTYPE html>
 <html lang="en">
 <head>
